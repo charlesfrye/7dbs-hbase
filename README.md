@@ -16,7 +16,7 @@ docker exec -it hbase-docker hbase shell
 
 # Wikipedia Dump
 
-The `.rb` files have been modified to relfect updates to HBase
+The `.rb` files have been modified to reflect updates to HBase
 since `1.0`.
 
 In particular, they use proper `Connection`s to the tables
